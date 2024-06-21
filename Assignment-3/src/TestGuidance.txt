@@ -1,0 +1,8 @@
+Testing Guidance:
+Unit Testing: Test individual components (e.g., TodoForm, TodoItem) for rendering, state changes, and event handling.
+
+Integration Testing: Test how components interact together (e.g., adding a task and verifying it appears in the list).
+
+Edge Cases: Test scenarios such as adding empty tasks, marking tasks as complete, deleting tasks, and ensuring localStorage behaves as expected across different browsers.
+
+use tools like jest and react testing library for unit testing and integration testing.
