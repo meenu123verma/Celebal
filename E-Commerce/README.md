@@ -22,7 +22,7 @@ redux-persist
 react-stripe-checkout
 
 
-![vite-ecommerceyt](https://github.com/noorjsdivs/vite-commerceyt/assets/104062645/1dc95aec-6dfd-4698-96cc-faf838c703a4)
+
 
 
 Backend:
@@ -35,8 +35,8 @@ stripe
 Clone the repository:
 bash
 Copy code
-git clone [https://github.com/noorjsdivs/vite-commerceyt.git](https://github.com/noorjsdivs/vite-commerceyt.git)
-cd vite-commerceyt
+
+cd vite
 Install dependencies:
 bash
 Copy code
